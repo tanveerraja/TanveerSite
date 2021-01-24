@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "The Start"
+date:   2021-01-24 00:06:00 +0000
+categories: jekyll update
+---
+As Nas said on N.Y State of Mind:
+
+"I don't know how to start this sh*t....."
+
+With a dilettante's enthusiasm I have been imagining how magnificent my words will look upon the screen.
+
+How the great and mighty will nod in sage agreement to the jewels I present.
+
+But the realist, the pragmatist, the cynic reminds me of Yogi Berra's words:
+
+"In theory there is no difference between theory and practice. In practice there is."
+
+So let's play.
