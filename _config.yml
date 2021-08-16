@@ -22,7 +22,7 @@ title: Tanveer Raja Blog
 email: tani.raja786@.googlemail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A place on the Interwebs for my thoughts on words and words on thoughts.
-baseurl: /TanveerSite # the subpath of your site, e.g. /blog
+baseurl: "/TanveerSite" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
 github_username:  tanveerraja
