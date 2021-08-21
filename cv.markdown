@@ -40,37 +40,37 @@ Here are some of those companies:
 
 
 <article class="clients">
-	<span></span><img src="/assets/img/3logo.jpeg" alt="3" />
+	<span></span><img src="tanveerraja.github.io/TanveerSite/assets/img/3logo.jpeg" alt="3" />
 </article>
 
 <article class="clients">
-	<span></span><img src="/assets/img/o2logo.jpeg" alt="O2" />
+	<span></span><img src="tanveerraja.github.io/TanveerSite/assets/img/o2logo.jpeg" alt="O2" />
 </article>
 
 <article class="clients">
-	<span></span><img src="/assets/img/vodafonelogo.jpeg" alt="Vodafone" />
+	<span></span><img src="tanveerraja.github.io/TanveerSite/assets/img/vodafonelogo.jpeg" alt="Vodafone" />
 </article>
 
 <article class="clients">
-	<span></span><img src="/assets/img/ckhlogo.png" alt="CKH" />
+	<span></span><img src="tanveerraja.github.io/TanveerSite/assets/img/ckhlogo.png" alt="CKH" />
 </article>
 
 <article class="clients">
-	<span></span><img src="/assets/img/pepsicologo.png" alt="Pepsico" />
+	<span></span><img src="tanveerraja.github.io/TanveerSite/assets/img/pepsicologo.png" alt="Pepsico" />
 </article>
 
 <article class="clients">
-	<span></span><img src="/assets/img/hplogo.png" alt="HP" />
+	<span></span><img src="tanveerraja.github.io/TanveerSite/assets/img/hplogo.png" alt="HP" />
 </article>
 
 <article class="clients">
-	<span></span><img src="/assets/img/compaqlogo.png" alt="Compaq" />
+	<span></span><img src="tanveerraja.github.io/TanveerSite/assets/img/compaqlogo.png" alt="Compaq" />
 </article>
 
 <article class="clients">
-	<span></span><img src="/assets/img/avislogo.png" alt="Avis" />
+	<span></span><img src="tanveerraja.github.io/TanveerSite/assets/img/avislogo.png" alt="Avis" />
 </article>
 
 <article class="clients">
-	<span></span><img src="/assets/img/shoosmithslogo.jpeg" alt="Shoosmiths" />
+	<span></span><img src="tanveerraja.github.io/TanveerSite/assets/img/shoosmithslogo.jpeg" alt="Shoosmiths" />
 </article>
